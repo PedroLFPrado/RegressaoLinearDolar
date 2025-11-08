@@ -1,0 +1,33 @@
+================================================================================
+RELATÓRIO DE ANÁLISE - REGRESSÃO LINEAR DO PREÇO DO DÓLAR
+================================================================================
+
+PERÍODO ANALISADO:
+Data Inicial: 28/10/2024
+Data Final: 27/10/2025
+Total de Registros: 261
+
+MODELO DE REGRESSÃO LINEAR:
+Equação: y = 6.036538 + -0.001930 × dias
+Intercepto (β₀): R$ 6.036538
+Coeficiente Angular (β₁): -0.001930 R$/dia
+
+MÉTRICAS DE DESEMPENHO:
+MSE (Erro Quadrático Médio): 0.014421
+RMSE (Raiz do EQM): R$ 0.1201
+MAE (Erro Absoluto Médio): R$ 0.0893
+R² (Coeficiente de Determinação): 0.741911 (74.19%)
+Erro Percentual Médio: 1.54%
+
+ESTATÍSTICAS DO PREÇO DO DÓLAR:
+Mínimo: R$ 5.2829
+Máximo: R$ 6.2896
+Média: R$ 5.6868
+Mediana: R$ 5.6815
+Desvio Padrão: R$ 0.2364
+
+INTERPRETAÇÃO:
+O modelo de regressão linear apresenta um bom ajuste
+aos dados, explicando 74.19% da variação no preço do dólar.
+O erro médio das previsões é de R$ 0.0893, representando
+aproximadamente 1.54% do valor real.
