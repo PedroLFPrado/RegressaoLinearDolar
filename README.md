@@ -6,23 +6,6 @@ Este projeto implementa Regressão Linear para análise e previsão do preço do
 
 ---
 
-## Estrutura dos Arquivos
-
-```
-ProjFinal/
-    ── Dolar.csv                               # Base de dados original (formato brasileiro)
-    ── regressao_linear_dolar.py              # Script principal (CÓDIGO COMENTADO)
-    ── README.md                               # Este arquivo (instruções)
-
-    ── Arquivos Gerados (após execução):
-        ── analise_regressao_linear_dolar.png      # Gráficos completos (6 visualizações)
-        ── grafico_apresentacao_dolar.png          # Gráfico principal para apresentação
-        ── resultados_regressao_linear.csv         # Dados + previsões + erros
-        ── relatorio_analise.txt                   # Relatório textual detalhado
-```
-
----
-
 ## Instalação das Dependências
 
 ### 1 - Verificar Python
